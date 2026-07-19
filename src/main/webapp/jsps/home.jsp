@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> venkata Rama reddy karri devops engineersss</h1>
+    <h1> venkata Rama reddy karri devops engineer</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
