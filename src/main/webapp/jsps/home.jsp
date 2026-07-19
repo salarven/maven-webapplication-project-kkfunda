@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1> devops </h1>
+    <h1> devops engineer </h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
